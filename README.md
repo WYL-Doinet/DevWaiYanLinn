@@ -8,12 +8,6 @@ Welcome to my GitHub profile! I'm passionate about programming and currently div
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me: [Your preferred contact method or leave it blank if you prefer privacy]
 
-## Repositories
-Here are some of the notable repositories you might find interesting:
-
-1. [Emotion Detector with Flutter](https://github.com/DevWaiYanLinn/emo-bot-flutter-version)
-2. [Clover Auction with NextJS](https://clover-auction-front.vercel.app)
-
 ## 🛠️ My Favorite Tools
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DevWaiYanLinn&layout=compact)
   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DevWaiYanLinn&count_private=true&show_icons=true&hide_title=true)
